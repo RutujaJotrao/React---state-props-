@@ -5,3 +5,13 @@ button{
     display: inline;
     justify-content: space-evenly;
 }
+
+input{
+    width: 50vh;
+    height: 5vh;
+    color: black;
+}
+
+.main_content{
+    margin-top: 17vh;
+}
