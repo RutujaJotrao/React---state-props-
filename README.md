@@ -17,5 +17,6 @@ Tasks performed to understand the usage of props and state:
 ![Screenshot 2024-01-11 064755](https://github.com/RutujaJotrao/React---state-props-/assets/95583405/c2adb0b1-03d3-43be-9155-d0641f2f3318)
 
 2. String length calculator
+
 ![Screenshot 2024-01-11 095653](https://github.com/RutujaJotrao/React-State-Props-/assets/95583405/53de9131-34a5-4e51-af52-69cfd67e408f)
 
