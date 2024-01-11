@@ -1,0 +1,7 @@
+button{
+    margin: 1vh;
+    padding: 2vh;
+    width: 15%;
+    display: inline;
+    justify-content: space-evenly;
+}
