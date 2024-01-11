@@ -20,3 +20,7 @@ Tasks performed to understand the usage of props and state:
 
 ![Screenshot 2024-01-11 095653](https://github.com/RutujaJotrao/React-State-Props-/assets/95583405/53de9131-34a5-4e51-af52-69cfd67e408f)
 
+3. Age Calculator
+
+![Screenshot 2024-01-11 110630](https://github.com/RutujaJotrao/React-State-Props-/assets/95583405/3b698759-d840-4956-90f9-ef8fb0e9dce2)
+
