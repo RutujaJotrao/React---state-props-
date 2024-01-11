@@ -14,6 +14,5 @@ Tasks performed to understand the usage of props and state:
 
 1. Color changer : Changes the window color on button click
    
-![Screenshot 2024-01-11 064901](https://github.com/RutujaJotrao/React---state-props-/assets/95583405/da2e72cf-7eaa-4aa9-b881-0b3ee2d5746d)
 ![Screenshot 2024-01-11 064755](https://github.com/RutujaJotrao/React---state-props-/assets/95583405/c2adb0b1-03d3-43be-9155-d0641f2f3318)
 
